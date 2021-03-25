@@ -1,0 +1,8 @@
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - ritwickdey.liveserver@5.6.1:5Mhl1RgVVDcIym163x8r+w==
+    - bradlc.vscode-tailwindcss@0.5.9:yRBWziGXnf16R7jUzlgn5w==
