@@ -1,0 +1,20 @@
+{
+  "name": "Tailwind-Beginner",
+  "version": "1.0.0",
+  "description": "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pegedi/Tailwind-Beginner)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pegedi/Tailwind-Beginner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pegedi/Tailwind-Beginner/issues"
+  },
+  "homepage": "https://github.com/pegedi/Tailwind-Beginner#readme"
+}
